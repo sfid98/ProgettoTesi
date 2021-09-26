@@ -6,8 +6,7 @@ In questo repository sono presenti i file utilizzati per la scrittura delle tesi
 <li>label.txt: Etichette</li>
 <li>TFLite_detection_webcam.py: Script Python per l'inferenza su Raspberry Pi 3B+</li>
 <li>MaskDetection.apk: Applicazione Android che integra il modello tflite</li>
- <li>MaskDetection.apk: Applicazione Android che integra il modello tflite</li>
-  <li>Mask detection.v2-new.voc.zip: Dataset etichettato con RoboFlow, nel formato PascalVOC</li>
+ <li>Mask detection.v2-new.voc.zip: Dataset etichettato con RoboFlow, nel formato PascalVOC</li>
 </ul>
 
 Il dataset utilizzato per l'addestramento del modello, è disponibile su questo link: https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
