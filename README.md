@@ -9,4 +9,4 @@ In questo repository sono presenti i file utilizzati per la scrittura delle tesi
  <li>Mask detection.v2-new.voc.zip: Dataset etichettato con RoboFlow, nel formato PascalVOC</li>
 </ul>
 
-Il dataset utilizzato per l'addestramento del modello, è disponibile su questo link: https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
+Il dataset originario (non etichettato) è disponibile su questo link: https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
